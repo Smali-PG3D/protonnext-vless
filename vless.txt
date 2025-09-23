@@ -1,1 +1,1 @@
-
+vless://e28c47f0-d2bd-47c2-a443-2d3c05cee0ee@45.130.215.125:12026?security=tls&sni=m.vk.com&allowInsecure=1&type=tcp&packetEncoding=xudp&encryption=none#LV%20%F0%9F%87%B1%F0%9F%87%BB%20%E2%94%87%20VLESS-RAW-TLS%20-%20RETN%20Limited%20%E2%94%87%2045.130.215.125
